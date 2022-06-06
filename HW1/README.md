@@ -8,4 +8,4 @@ Http status code standartlarına uyulmalıdır. Error Handler ile 500, 400, 404,
 Modellerde zorunlu alanların kontrolü yapılmalıdır.
 Routing kullanılmalıdır.
 Model binding işlemleri hem body den hemde query den yapılacak şekilde örneklendirilmelidir. Bonus:
-Standart crud işlemlerine ek olarak, listeleme ve sıralama işlevleride eklenmelidir. Örn: /api/products/list?name=abc
+Standart crud işlemlerine ek olarak, listeleme ve sıralama işlevleride eklenmelidir. Örn: /api/products/list?name=abc.
